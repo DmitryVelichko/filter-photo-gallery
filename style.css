@@ -24,3 +24,12 @@ section ul {
     flex-wrap: wrap;
     margin-bottom: 20px;
 }
+
+section ul li {
+    list-style: none;
+    background: #eee;
+    padding: 12px 20px;
+    margin: 5px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
