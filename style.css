@@ -15,5 +15,12 @@ section {
     align-items: center;
     flex-direction: column;
     margin: 40px auto;
-    
+}
+
+section ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
 }
