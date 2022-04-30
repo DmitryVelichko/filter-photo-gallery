@@ -33,3 +33,8 @@ section ul li {
     letter-spacing: 1px;
     cursor: pointer;
 }
+
+section ul li.active {
+    background: #03a9f4;
+    color: #fff;
+}
